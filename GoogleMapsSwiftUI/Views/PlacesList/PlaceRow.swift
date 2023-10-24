@@ -17,7 +17,7 @@ struct PlaceRow: View {
     var body: some View {
         HStack {
             Text(place.name ?? "")
-                .foregroundColor(.white)
+                .foregroundColor(.blue)
             
             Spacer()
         }
