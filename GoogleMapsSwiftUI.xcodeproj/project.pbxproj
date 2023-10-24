@@ -163,7 +163,6 @@
 				1FC5F43B2AE7AF430074DA18 /* Sources */,
 				1FC5F43C2AE7AF430074DA18 /* Frameworks */,
 				1FC5F43D2AE7AF430074DA18 /* Resources */,
-				BEBD76DB1E604EB640BB13C6 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -220,23 +219,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		BEBD76DB1E604EB640BB13C6 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-GoogleMapsSwiftUI/Pods-GoogleMapsSwiftUI-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-GoogleMapsSwiftUI/Pods-GoogleMapsSwiftUI-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GoogleMapsSwiftUI/Pods-GoogleMapsSwiftUI-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		C39695612095862DCC0C3103 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;

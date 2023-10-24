@@ -6,7 +6,7 @@ target 'GoogleMapsSwiftUI' do
   use_frameworks!
 
   # Pods for GoogleMapsSwiftUI 
-  pod 'GoogleMaps', '~> 7.4.0'
-  pod 'GooglePlaces'
+  #pod 'GoogleMaps', '~> 8.2.0'
+  #pod 'GooglePlaces'
   
 end
